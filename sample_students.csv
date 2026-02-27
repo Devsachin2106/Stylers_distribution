@@ -1,0 +1,11 @@
+sno,reg_no,name,department,section
+1,CS2024001,Arjun Mehta,Computer Science,A
+2,CS2024002,Priya Sharma,Computer Science,B
+3,CS2024003,Karan Joshi,Computer Science,A
+4,EC2024001,Rahul Verma,Electronics,A
+5,EC2024002,Divya Reddy,Electronics,B
+6,ME2024001,Sneha Patel,Mechanical,C
+7,CE2024001,Vikram Singh,Civil,A
+8,IT2024001,Anjali Nair,Information Technology,B
+9,IT2024002,Rohan Das,Information Technology,A
+10,CS2024004,Meera Iyer,Computer Science,C
